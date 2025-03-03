@@ -3,41 +3,31 @@
 	<url>
 		<loc>https://www.westiesdelbosc.com</loc>
 		<priority>1.00</priority>
-		<lastmod>2025-03-02</lastmod>
+		<lastmod>2025-03-03</lastmod>
 	</url>
 	<url>
 		<loc>https://www.westiesdelbosc.com/videos.php</loc>
 		<priority>0.50</priority>
-		<lastmod>2025-03-02</lastmod>
+		<lastmod>2025-03-03</lastmod>
 	</url>
 	<url>
 		<loc>https://www.westiesdelbosc.com/fotos.php</loc>
 		<priority>0.50</priority>
-		<lastmod>2025-03-02</lastmod>
+		<lastmod>2025-03-03</lastmod>
 	</url>
 	<url>
 		<loc>https://www.westiesdelbosc.com/faqs.php</loc>
 		<priority>0.50</priority>
-		<lastmod>2025-02-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.westiesdelbosc.com/eventos.php</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-03-02</lastmod>
-	</url>
-	<url>
-		<loc>https://www.westiesdelbosc.com/bodas.php</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-03-02</lastmod>
+		<lastmod>2025-03-03</lastmod>
 	</url>
 	<url>
 		<loc>https://www.westiesdelbosc.com/about.php</loc>
 		<priority>0.50</priority>
-		<lastmod>2025-02-03</lastmod>
+		<lastmod>2025-03-02</lastmod>
 	</url>
 	<url>
 		<loc>https://www.westiesdelbosc.com/404.php</loc>
 		<priority>0.50</priority>
-		<lastmod>2025-03-02</lastmod>
+		<lastmod>2025-03-03</lastmod>
 	</url>
 </urlset>
